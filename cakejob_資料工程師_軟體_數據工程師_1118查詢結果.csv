@@ -1,0 +1,637 @@
+,職務名稱:,公司名稱:,招募人數:,職務類別:,職務等級:,工作地點:,薪資範圍:,工作年資:,管理責任:,工作說明:,網站連結:
+0,IT Data Engineer,TSMC 台積電,1,Full-time,Entry level,"Hsinchu, North District, Hsinchu City, Taiwan・Taiwan",40K+ TWD / month,No requirement for relevant working experience,No management responsibility,"Established in 1987 and headquartered in Taiwan, TSMC pioneered the pure-play foundry business model with an exclusive focus on manufacturing its customers’ products. As of 2024, TSMC serves more than 500 customers and manufactures over 11,000 products for high-performance computing, smartphones, the Internet of Things (IoT), automotive, and digital consumer electronics. It is the world’s largest provider of logic ICs, with an annual capacity of 16 million 12-inch equivalent wafers. TSMC operates fabs in Taiwan as well as manufacturing subsidiaries in Washington State, Japan and China, and the Company began construction on a specialty technology fab in Dresden, Germany, in 2024. In Arizona, TSMC is building three fabs, with the first starting 4nm production in 2025, the second by 2028, and the third by the end of the decade.
+Are you a creative IT professional with strong technical aptitude who embraces changes and is passionate about data and information? We invite you to join our highly innovative data engineering team which is constantly designing, developing, and delivering high quality solutions for our customers. As a data engineer, you will have opportunities to work in a dynamic and fast-paced environment to collaborate with business functions to design solutions. You will translate business requirements into technical needs, connect and automate data pipelines, and deliver data architecture and data governance solutions.
+  Responsibility:
+Perform IT system architecture design, new technology research, and provide recommendation.Design and implement optimal data pipeline architecture (considered high data volume, data governance, etc.).Work with PRODUCT/BIZ teams to assist with new data platform re-engineering or data-related technical issues.DataOps high availability NoSQL DB (e.g.: Cassandra, S3/MinIO, MariaDB, etc.) on K8s environment.",www.cake.me//companies/tsmc/jobs/data-engineer-02c7e9
+1,數據工程師實習生 Data Engineer Intern,COMMEET＿擁樂數據服務股份有限公司,1,Internship,Entry level,"Songshan District, Taipei City, Taiwan 105・Taipei City, Taiwan",200 ~ 250 TWD / hour,No requirement for relevant working experience,No management responsibility,COMMEET (https://commeet.co) 擴大徵才，歡迎有熱情之新夥伴加入我們的行列[工作內容]1 整理、標記數據，以確保數據的準確性與可靠性。 2 訓練OCR模型，並進行模型效能評估。3 建立/維護/優化資料處理流程與架構(data pipeline)。4 從業人員恪守客戶個資保護敏感度及尊重客戶資料隱密性。5 其它主管交辦事項。,www.cake.me//companies/commeet/jobs/data-assistant-engineerdata-science-intern
+2,資料工程師,上洋股份有限公司,1,Full-time,Assistant,"Wugu District, New Taipei, Taiwan",50K+ TWD / month,2 years of experience required,No management responsibility,"數據驅動決策與營運最佳化是上洋邁向智慧營運的重要一步。我們正在尋找一位對資料工程具備熱情與專業的資料工程師（Data Engineer）。 此角色需主動與資料分析、軟體開發、產品與營運等部門合作，設計與維運可靠的資料流程與平台，確保資料正確、安全、即時，協助公司從資料中創造價值，推動數位轉型與業務洞察。 身為資料工程師，你/妳將會執行以下內容： 
+
+
+
+
+
+
+
+設計、建置與維護資料處理流程（ETL/ELT），整合內外部與異質、結構化、非結構化資料來源（如 RDB、logs、API 回傳、第三方數據）。架構與管理資料倉儲與資料湖，確保資料可追蹤、可擴展與高效能。協助資料分析團隊取得所需資料，建立並維護標準化資料模型與資料目錄。實作資料清理與驗證機制，監控資料異常、延遲與品質偏差。持續評估並導入新工具、新技術（如自動化資料管道、容器化部署），提升資料處理流程的自動化與穩定性。 撰寫與維護資料處理程式（以 Python 為主）利用視覺化工具（如 Superset、Metabase）打造即時儀表板，協助團隊快速洞察關鍵指標。 快速理解並分類商用需求，將業務需求轉化為具體的資料解決方案。 與資料科學家、分析師密切協作，若具備機器學習 Pipeline 或模型部署經驗更佳。",www.cake.me//companies/upyoung/jobs/data-engineer-95e
+3,[Bosch R&D - Internship] Data Engineer Intern,Bosch Vietnam,5,Full-time,Internship,"Ho Chi Minh City, Vietnam",No requirement for relevant working experience,No management responsibility,,"Company Description
+Bosch first started in Vietnam with a representative office in 1994. Bosch has its main office in Ho Chi Minh City, with branch offices in Hanoi and Da Nang, and a Powertrain Solutions plant in the Dong Nai province to manufacture pushbelt for continuously variable transmissions (CVT) in automobiles. In addition, Bosch operates a software and engineering RD center (Robert Bosch Engineering and Business Solutions Vietnam Co., Ltd).
+In July 2014, Bosch set up a new Automotive RD Center, located in Ho Chi Minh City. The continuous growth of this Centre is in line with Bosch’s strategy in Vietnam, which aims at becoming a manufacturing and RD hub in the Southeast Asian region. Currently four products are available: connectors, pushbelt, fuel supply, and diagnosis module (tank leakage).
+For further information, please visit our website: www.bosch.com.vn
+Job Description
+
+
+
+
+
+
+
+
+Designing and implementing data pipelines from multiple sources using Azure Databricks or Hadoop ecosystemDeveloping scalable and re-usable frameworks for ingesting of data setsIntegrating end to end data pipeline - to take data from source systems to target data repositories ensuring quality and consistency of data is maintained at all timesWorking with event based / streaming / scheduling technologies to ingest and process dataWrite python script to process data according to the needs from other engineersBuild dashboard using PowerBI or Tableau to fulfill the need from end usersEvaluating the performance and applicability of multiple tools for the automated data pipelineInvolve in application development using low-code platforms such as PowerApps and Outsystems.Involve in AI solution development in the organization focus on building python script for data processing",www.cake.me//companies/bosch-vietnam-bd2881/jobs/bosch-r-d-internship-data-engineer-intern-b9e
+4,【國泰集團】數據工程師 Data Engineer,國泰健康管理顧問股份有限公司,1,Full-time,Entry level,"Daan District, Taipei City, Taiwan",800K ~ 1M TWD / year,3 years of experience required,No management responsibility,"【About Us】
+歡迎加入「國泰健康管理」！我們是一個充滿活力、追求創新、以數據和科技驅動健康管理變革的團隊！在這裡，你將與一群熱愛科技、關心健康、充滿創造力的夥伴並肩作戰，共同探索智能健康的無限可能。
+我們相信「想要健康不能靠感覺」，而是基於精準數據的科學管理。
+我們的使命是：整合數位、數據和 IT 技術，打造個人化的健康管理解決方案，讓人人都能擁有健康自信的人生，實踐『健康就在生活裡，解方就在數據裡』
+【We Need You to …】
+1.應用服務開發與維護
+• 開發與維護數據應用服務（API），確保業務服務穩定運行。
+• 開發與維護 ETL Pipeline，以支援數據轉換與應用。
+2.自動化與運維
+• 建立與管理 CI/CD Pipeline，提升開發與部署效率。
+• 持續監控服務效能，進行問題排查、升級與最佳化。
+【About You】
+• 熟悉基礎 Python 程式語言，能開發應用服務或數據流程。
+• 熟悉資料處理流程，能設計並維護 ETL Pipeline（Airflow）。
+• 了解容器化技術（Docker、Kubernetes）。
+• 了解 CI/CD 與自動化運維經驗（Azure DevOps 或 GitLab）。
+【Plus】
+• 具備 AWS 服務（EC2、S3、RDS、Lambda、IAM 等）建置與維運經驗。
+• 具備 Terraform 或其他 IaC 工具經驗。
+• 具備 DevOps / Cloud Engineer 相關工作經驗。
+• 具備網路/資訊安全管理經驗。
+• 具備解決問題、除錯及故障排除能力，能提出解決方案。",www.cake.me//companies/cathay-hcm/jobs/cathay-pacific-groupdata-engineer
+5,Python 工程師  – 資料科學/AI 應用方向 【Munger AI Team】,Stark Tech 鷹翔有限公司,3,Full-time,Mid-Senior level,"Songshan District, Taipei City, Taiwan",850K ~ 1.2M TWD / year,3 years of experience required,No management responsibility,"【關於我們 - Data Munger AI】
+Data Munger 致力成為企業與實用 AI 解決方案間的最佳夥伴，從導入一路陪伴到落地。 在人人喊AI的時代下，真正為企業打造一個會持續進化的「AI 大腦」讓決策更快、流程更簡，讓人力價值最大化。
+官網： https://datamunger.io/
+
+💼 工作職責
+資料處理管道設計與開發
+ 使用 Python 與 BigQuery SQL 為 AI 應用設計、開發及維護資料處理流程，確保機器學習模型可獲取高品質資料。ETL/ELT 工作流程構建
+ 建立並優化 ETL/ELT 流程，確保資料自動化處理與數據一致性。RAG 系統實作
+ 應用 RAG（檢索增強生成）技術，提升 AI 互動的準確性與上下文相關性。向量資料庫與查詢優化
+ 優化向量資料庫（如 Pinecone、Qdrant）及 SQL/BigQuery 查詢效能，提升 AI 搜尋與回應速度。API 建構與維護
+ 使用 Python 框架（FastAPI、Flask）建立並維護資料處理與 AI 服務 API。機器學習模型與資料管道部署
+ 在雲端基礎架構（主要以 GCP 為主，並整合部分 AWS）上部署 ML 模型與資料管道，實踐 MLOps 原則以確保部署具備可重現性、擴展性及監控能力。跨部門協作與技術創新
+ 與資料科學家、AI 研究人員及前端團隊協作，共同打造端對端 AI 產品，並持續導入最新技術以優化解決方案。",www.cake.me//companies/StarkTech/jobs/python-engineer-data-science-ai-applications
+6,數據工程師 Data Science Engineer,COMMEET＿擁樂數據服務股份有限公司,1,Full-time,Assistant,"Songshan District, Taipei City, Taiwan",Negotiable,No requirement for relevant working experience,No management responsibility,COMMEET (https://commeet.co) 擴大徵才，歡迎有熱情之新夥伴加入我們的行列[工作內容]1 整理、標記數據，以確保數據的準確性與可靠性2 建立/維護/優化資料處理流程與架構(data pipeline)3 跟相關的stakeholder合作，解決並優化他們的數據需求4 其它主管交辦事項。,www.cake.me//companies/commeet/jobs/data-science-engineer-e05
+7,資料工程師,群健科技股份有限公司Cofit Healthcare Inc.,2,Full-time,Mid-Senior level,"Taipei City, Taiwan",70K ~ 100K TWD / month,4 years of experience required,No management responsibility,"★ 關於 Cofit
+Hi，我們是 Cofit，正在打造一個橫跨台灣、美加、新加坡、香港、大陸和東南亞的跨境健康平台，把台灣優秀的醫療和服務輸出，幫助世界各地華人輕鬆減肥、健身、遠離三高！熱情邀請對網路、健康美食有興趣的夥伴加入我們，一起參與團隊的成長和壯大！在這裡你將得到最大的授權、盡情發揮！絕對自由的工作環境、創業精神的實踐、還能獲得終生受用的健康知識。★ 職位說明Mid-Level Data Engineer主要負責建置與維護穩定的資料流程與模型，確保資料正確與即時，以支援分析需求與營運決策。Senior Data Engineer主要負責資料架構與流程的設計與優化，確保系統可擴充性與資料品質的穩定，並推動跨部門的資料整合與協作。★ 工作內容1. 資料架構規劃- 設計資料倉儲架構，規範命名與欄位定義。- 協助建立跨部門共用的資料模型與指標層（semantic layer）。- 與 DevOps 協作規劃部署環境、權限與自動化流程（CI/CD）。2. 資料流建置與維運- 使用 Airflow / dbt / Python 建立、監控 ETL pipeline。- 整合臨床、營養、CRM、GA4 等多來源資料，確保時效與正確性。- 建立 logging 與自動錯誤通知機制，提升資料流可靠度。3. 資料品質與監控- 制定資料驗證規則、實作異常監測與排錯流程。- 定期檢查 pipeline 效能與資源使用，提出優化建議。4. 分析層支援與跨部門協作- 與 Data Analyst 協作，將分析需求轉化為結構化資料表與維度模型。- 主動提出資料結構或流程優化建議，提升整體分析效率。- 維護報表工具的資料來源層（data mart / view）。★ 文化與價值觀- 享受新創團隊充滿挑戰的生活。- 能接受新鮮事物，與各領域人才交流學習。- 面對問題能快速分析，找出問題點與解決方案。- 重視細節，對於自己交付出的成果負責且自豪。- 主動溝通，就事論事，有自己的想法但不固執。- 重視自我能力精進，經常思考「還有更好的解決方式嗎？」",www.cake.me//companies/cofit-healthcare-inc/jobs/data-engineer-a38a96
+8,Data Engineer / 資料工程師,SWAG,1,Full-time,Mid-Senior level,"Taipei City, Taiwan",Negotiable,3 years of experience required,No management responsibility,"DescriptionAt SWAG Live, data is the backbone of how we innovate and grow. With our BI system established, the data team is now focused on building the next generation of platforms that power recommendation systems, AI agents, AI pipelines, and campaign-facing services—as well as external-facing data services that enhance our products.
+We are seeking a Data Engineer who will design and operate the infrastructure that makes these AI-driven initiatives possible. Your work will center on building cost-efficient, reliable, and maintainable systems that deliver measurable business value. You’ll collaborate closely with data scientists and product teams to turn models into production-ready services, enabling personalization, campaign optimization, and intelligent product features.
+This is a role for engineers who want to shape the future of applied AI while keeping efficiency at the core.
+Responsibilities
+Build and maintain cost-efficient data pipelines and warehouses that power analytical tool, recommendation systems, AI agents, and campaign-facing services.Develop data services that integrate with external products, ensuring reliability, maintainability, and clear SLAs.Optimize queries, schemas, and storage to maximize performance and minimize cost across transactional and analytical workloads.Implement and operate event-driven streaming architectures for real-time personalization and campaign insights.Collaborate with data scientists and product teams to move AI models from experimentation to production.Create internal tools and frameworks that accelerate the productivity of analysts, scientists, and engineers.Ensure data quality, governance, and observability across pipelines and services.",www.cake.me//companies/swag/jobs/data-team-engineer
+9,【風控資料工程師】Data Engineer(Risk Analytics),智鈦星平台服務有限公司,1,Full-time,Entry level,"Taipei City, Taiwan",60K ~ 120K TWD / month,2 years of experience required,No management responsibility,"身為風控數據工程師，你將負責設計、建置與維運公司的數據基礎設施（Data Platform），確保數據在收集、處理與存取過程中的穩定性、正確性與高效性。
+你將與風控團隊緊密合作，透過數據工程與自動化技術，將龐雜的數據轉化為具決策價值的洞察，支持公司在風險管理與策略決策上的持續成長。
+【主要職責】
+1. 數據管線開發與維運
+  - 設計、開發並維護 ETL/ELT 流程，整合內外部異質數據來源，確保數據高品質與穩定性
+  - 建立與維護數據模型（Data Modeling），確保架構具可擴展性並符合業務需求
+  - 建置監控與告警機制（Alerting  Monitoring），即時偵測異常並優化資料流程
+2. 數據產品與分析支援
+  - 與風控、業務及數據分析團隊合作，理解需求並提供適用的數據解決方案
+  - 設計並開發自動化分析報表與 Dashboard，支援風控監測、產品分析及策略決策
+3. 數據平台建置與管理
+  - 維運與優化數據平台（Data Platform），確保高可用性、可擴展性與安全性
+  - 管理與調校數據計算資源（如 Spark、Presto），提升效能與資源使用效率
+  - 建立數據治理（Data Governance）機制，確保資料品質、安全與合規
+4. 系統監控與效能優化
+  - 監控並分析數據系統效能，持續進行架構優化與資源配置調整
+  - 優化查詢與處理效率，提升系統反應速度與可靠性
+  - 針對異常數據或流程問題，提供修復與長期優化方案",www.cake.me//companies/gtstw/jobs/data-professional
+10,🚀 物聯網 AIoT 資料工程師Data Engineer - TL,Cake Recruitment Consulting,1,Full-time,Mid-Senior level,"Zhongzheng District, Taipei City, Taiwan",1.4M ~ 2M TWD / year,4 years of experience required,No management responsibility,"公司介紹
+這是一家專注於「智慧能源科技」的中大型軟體公司，致力於以 AIoT 平台技術 連結數以萬計的能源裝置，協助客戶監控、分析並優化能源使用效率。
+公司擁有穩定的國際客戶群與高市佔率，產品被廣泛應用於再生能源與智慧工廠領域。
+研發團隊以高技術門檻為驕傲，面對每日上億筆資料的挑戰，持續打造高併發、高可用的雲端資料平台。
+在這裡，你將能參與真正大規模的資料流架構優化，與一群熱愛技術、願意理性討論的夥伴一起成長。
+工作內容
+
+
+建構並維運單日上億筆電力時序資料的 AIoT 雲端資料流架構（資料流、統整、儲存、分析與事件偵測）
+
+
+與 SRE 團隊合作，量化系統效能、提出優化與轉移計畫，確保系統能支援倍數成長的業務量
+
+
+開發並優化高可用性系統、異地備援及災後恢復機制
+
+
+與 Fullstack、SRE 團隊協作，將資料流架構平台化，支援多樣能源 AIoT 應用產品
+
+
+持續推動系統架構優化，以平衡成本與效能，打造能承載全球規模的資料平台
+
+
+使用技術
+RabbitMQ、Fluentd、Elasticsearch、InfluxDB、Redis、MySQL、Spark、Kafka、SFTP/FTPS
+Python（主要）、Golang、Rust
+Linux、Docker、Kubernetes（K8s）、GCP/AWS/Azure",www.cake.me//companies/cake-recruitment-consulting/jobs/data-engineer-tl
+11,[Bosch R&D - Internship] Data Engineer Intern,Bosch Vietnam,5,Full-time,Internship,"Ho Chi Minh City, Vietnam",No requirement for relevant working experience,No management responsibility,,"Company Description
+Bosch first started in Vietnam with a representative office in 1994. Bosch has its main office in Ho Chi Minh City, with branch offices in Hanoi and Da Nang, and a Powertrain Solutions plant in the Dong Nai province to manufacture pushbelt for continuously variable transmissions (CVT) in automobiles. In addition, Bosch operates a software and engineering RD center (Robert Bosch Engineering and Business Solutions Vietnam Co., Ltd).
+In July 2014, Bosch set up a new Automotive RD Center, located in Ho Chi Minh City. The continuous growth of this Centre is in line with Bosch’s strategy in Vietnam, which aims at becoming a manufacturing and RD hub in the Southeast Asian region. Currently four products are available: connectors, pushbelt, fuel supply, and diagnosis module (tank leakage).
+For further information, please visit our website: www.bosch.com.vn
+Job Description
+
+
+
+
+
+
+
+
+Designing and implementing data pipelines from multiple sources using Azure Databricks or Hadoop ecosystemDeveloping scalable and re-usable frameworks for ingesting of data setsIntegrating end to end data pipeline - to take data from source systems to target data repositories ensuring quality and consistency of data is maintained at all timesWorking with event based / streaming / scheduling technologies to ingest and process dataWrite python script to process data according to the needs from other engineersBuild dashboard using PowerBI or Tableau to fulfill the need from end usersEvaluating the performance and applicability of multiple tools for the automated data pipelineInvolve in application development using low-code platforms such as PowerApps and Outsystems.Involve in AI solution development in the organization focus on building python script for data processing",www.cake.me//companies/bosch-vietnam-bd2881/jobs/bosch-r-d-internship-data-engineer-intern
+12,Data Platform Engineer / Data Engineer 資料處理工程師,諾克思股份有限公司,1,Full-time,Mid-Senior level,"Neihu District, Taipei City, Taiwan",70K ~ 120K TWD / month,3 years of experience required,No management responsibility,"我們正在尋找一位能設計與建置 可擴展的資料平台，並推動資料基礎設施升級的工程師。此職位將與團隊合作，從 資料源頭→ pipeline → Lakehouse → dashboard → AI 應用，全面性地規劃與執行。【工作內容】資料平台與基礎建設•	設計與維護 資料管線(CDC, Streaming, Batch)，整合Debezium + Kafka + Spark + Iceberg Catalog。•	建立 Lakehouse 架構，支持 Bronze / Silver / Gold 分層數據治理。•	使用Airflow + dbt 進行workflow 與transformation orchestration。•	協助資料治理 (lineage, catalog, metadata)，確保數據準確性與可追溯性。Dashboard 與數據應用•	與商務團隊合作，設計營運報表、用戶行為數據追蹤、BI dashboard (Superset, Metabase)。•	優化數據模型與SQL  查詢，提升報表效能與準確度。技術迭代與專案交付•	規劃並推動資料平台升級，將現有系統轉換至 Modern Data Stack。•	撰寫技術文件，制定測試策略，並進行團隊知識分享。•	確保數據平台的 高可用性、安全性與可擴展性。未來支援方向•	規劃 推薦系統、搜索服務、內容審查 等應用場景的數據支援。•	建立feature store、近即時數據處理，支持Machine Learning pipeline 與生成式AI專案。",www.cake.me//companies/nyx/jobs/data-platform-engineer-data-engineer-data-processing-engineer
+13,統一超商資深資料工程師(uniopen客戶資料平台CDP),統一超商股份有限公司（7-ELEVEN),2,Full-time,Entry level,"Xinyi District, Taipei City, Taiwan 110・Taipei City, Taiwan",50K ~ 120K TWD / month,5 years of experience required,No management responsibility,"[本職缺僅接受104網站投遞]
+請至統一超商104招募頁面投遞個人履歷表，路徑指引:https://www.104.com.tw/job/8p2a1?jobsource=googleCDP 與數據策略● 設計 CDP 資料架構與數據模型，整合多來源數據，支援行銷自動化。● 定義數據關鍵指標（如延遲、吞吐量），運用 data observability 確保資料品質與一致性。高效數據管道建置● 開發基於 Kafka 或 Flink 的即時數據流，以及 Airflow 調度的批次處理管道。● 使用 Delta Lake 或 Snowflake 建置數據湖/倉庫，支援電商場景的高效查詢。● 優化數據處理流程，確保低延遲與高吞吐量。● 分析數據流效能，持續優化 ETL/ELT 流程，提升可靠度。跨部門協作● 與資料科學團隊合作，透過 MLOps 支援模型部署與訓練。● 與行銷、產品、資料科學團隊對接，推動數據驅動專案。● 具指導初/中階工程師經驗，能主導技術規劃與問題排查。資料合規● 設計符合 GDPR、CCPA 的資料模型與治理流程，確保資料安全與隱私。",www.cake.me//companies/7eleventw/jobs/aa595a
+14,資料分析師,群健科技股份有限公司Cofit Healthcare Inc.,1,Full-time,Mid-Senior level,"Taipei City, Taiwan",60K ~ 80K TWD / month,3 years of experience required,No management responsibility,"★ 關於 Cofit
+Hi，我們是 Cofit，正在打造一個橫跨台灣、美加、新加坡、香港、大陸和東南亞的跨境健康平台，把台灣優秀的醫療和服務輸出，幫助世界各地華人輕鬆減肥、健身、遠離三高！熱情邀請對網路、健康美食有興趣的夥伴加入我們，一起參與團隊的成長和壯大！在這裡你將得到最大的授權、盡情發揮！絕對自由的工作環境、創業精神的實踐、還能獲得終生受用的健康知識。★ 工作內容1. 資料處理與整合- 蒐整並清理營運、行銷、醫療與服務等多來源資料（含 App、CRM、內部系統）。- 撰寫 SQL / Python 進行資料轉換、指標整合與品質驗證。- 與 Data Engineer 合作，優化分析層結構與資料效能，確保一致性與可追蹤性。2. 資料分析與應用- 分析營運、行銷、客戶輪廓與臨床數據，發掘趨勢與關鍵影響因素，提供具行動性的洞察與建議。- 建立並維護報表與分析介面（Metabase、Tableau、Looker Studio、MicroStrategy）。3. 資料視覺化與洞察傳遞- 以清晰圖表與文字呈現分析結果，促進決策與跨部門協作。- 製作簡報與報告，支援高階會議與專案溝通。- 建立標準化資料呈現與報表格式，確保資訊透明與一致。★ 文化與價值觀- 享受新創團隊充滿挑戰的生活。- 能接受新鮮事物，與各領域人才交流學習。- 面對問題能快速分析，找出問題點與解決方案。- 重視細節，對於自己交付出的成果負責且自豪。- 主動溝通，就事論事，有自己的想法但不固執。- 重視自我能力精進，經常思考「還有更好的解決方式嗎？」",www.cake.me//companies/cofit-healthcare-inc/jobs/data-engineer-fa6
+15,⚙️ Hybrid + 技術決策權｜AIoT 雲端資料架構師 Data Architect-TL,Cake Recruitment Consulting,1,Full-time,Mid-Senior level,"Zhongzheng District, Taipei City, Taiwan",1.5M ~ 2.4M TWD / year,8 years of experience required,No management responsibility,"公司介紹
+這是一家在 智慧能源與 AIoT 雲端平台 領域具領導地位的軟體公司，產品已廣泛應用於再生能源監控與工業物聯網。
+公司以 資料為核心資產，每日處理超過數億筆能源時序資料，持續打造高併發、高可靠性的全球級資料平台。
+團隊文化極度重視技術品質與架構思維，鼓勵理性討論與開放交流。這裡沒有僵化階層，只有對卓越架構與效能極限的共同追求。
+若你渴望設計能支撐 10 倍流量成長的 AIoT 系統，這將是你能充分發揮技術與影響力的舞台。
+工作內容
+
+
+主導設計與優化雲端 AIoT 資料流架構，涵蓋資料流、整併、儲存分析與事件偵測模組
+
+
+與 SRE 團隊合作，進行架構效能瓶頸分析與轉移計畫設計，推動大規模系統效能提升
+
+
+建構高可用性系統、異地備援與災難復原機制，確保雲端平台穩定性
+
+
+與 Fullstack 團隊協作，推動資料流平台化，支援多產品資料需求
+
+
+引領團隊進行新技術評估與雲端架構演進，持續優化資料處理策略
+
+
+擔任跨部門技術橋樑，提供架構決策、團隊規劃與技術指導
+
+
+使用技術
+RabbitMQ、Fluentd、Elasticsearch、InfluxDB、Redis、MySQL、Spark、Kafka、SFTP/FTPS
+Python（主程式語言）、Golang、Rust
+Linux、Docker、Kubernetes（K8s）、GCP / AWS / Azure
+
+
+
+成長挑戰
+你將直接面對單日數億筆資料、百 TB 級別的儲存與分析挑戰，並主導雲端架構的演進與平台化。
+在這個角色中，你不只是工程師，更是 架構決策者與技術推動者，有機會定義下一代能源 AIoT 資料平台的形貌。",www.cake.me//companies/cake-recruitment-consulting/jobs/hybrid-technical-decision-making-power-aiot-cloud-data-architect-tl
+16,Data Engineer 資料工程師,HackMD 嗨筆記股份有限公司,1,Full-time,Mid-Senior level,"Taipei City, Taiwan",1M ~ 1.2M TWD / year,2 years of experience required,No management responsibility,"你將會負責的工作內容：
+設計並維運資料平台，整合關聯式資料庫與使用者行為日誌，支援產品與分析需求開發並最佳化 ETL / ELT 流程，確保資料的正確性、時效性與可擴展性與資料科學家與產品經理協作，將業務需求轉化為資料模型與資料產品協助機器學習模型的特徵工程、推論流程與排程部署最佳化既有資料流程效能，並確保資料安全性與存取權限符合內部規範撰寫內部文件與技術 Best Practices，提升團隊開發效率與知識傳承
+薪資範圍：
+新台幣 100-120 萬元 (年薪)，如超出條件可面議彈性遠距辦公，實體辦公室地點：松江南京站，走路 10 分鐘，公園旁邊，鬧中取靜
+聯絡方式：
+內文請附上個人經歷與過去的經驗分享，我們很樂於聽您分享故事",www.cake.me//companies/hackmd/jobs/data-engineer-318355
+17,【日本東京】知名新創企業  機器學習運用工程師(MLOps),Mynavi 台灣邁那比股份有限公司,1,Full-time,Entry level,"Zhudong Township, Hsinchu County, Taiwan, 310・Tokyo Metropolis, Japan・Tokyo, Tokyo Metropolis, Japan",7M ~ 12M JPY / year,3 years of experience required,No management responsibility,"以「釋放製造業的潛力」為使命，致力於推動製造業的數據平台產品。
+2022 年透過機器學習等多種技術，將製造業中極為重要的圖面數據進行結構化，並與各類資訊連結，讓圖面能夠作為資訊資產被靈活運用。該產品目前已被日本國內眾多大型製造商與加工公司廣泛採用，成長迅速。
+自 2023 年起，我們也開始向海外市場拓展，包括美國、泰國、越南等地，加速推進全球佈局。
+未來，我們將不只限於圖面資料，而是致力於透過科技手段，重現與整合製造業的專業知識，實現跨部門、跨企業的整體最適化。【工作內容】
+MLOps 工程師將與機器學習工程師密切合作，負責建構、維護與營運能夠穩定提供機器學習與數據科學模型的系統基礎架構。此外，您也將引領建立數據收集管線，並推動數據資產活用。
+以下為工作內容示例，實際工作項目不僅限於此，入職後的工作範疇將依據您的技術能力、專業知識與經驗共同討論決定：
+
+
+建構支援機器學習模型推論的 API 與 Batch 運行環境，及使用 CI/CD 進行部署的系統架構
+
+
+在正式環境中執行監控、效能調校等提升 Site Reliability 的相關開發
+
+
+使用 Vertex AI 或 Argo Workflow 建立、維護與運營機器學習處理流程（Pipeline）
+
+
+最佳化推論與訓練平台的成本效益
+
+
+與建模人員、平台工程團隊進行有效溝通，並將相關流程進行文件化與制度化
+■ 使用語言
+
+
+前端：TypeScript
+
+
+後端：Rust、TypeScript、Python
+
+
+■ 框架與函式庫
+
+
+前端：React、Next.js、WebGL、WebAssembly
+
+
+後端：Rust（axum）、Node.js（Express、Fastify、NestJS）、PyTorch
+
+
+■ 基礎架構
+
+
+Google Cloud、Google Kubernetes Engine（GKE）、Anthos Service Mesh
+
+■ 資料庫／資料倉儲
+
+
+CloudSQL（PostgreSQL）、AlloyDB、Firestore、BigQuery
+
+■ API
+
+
+GraphQL、REST、gRPC
+
+■ 監控與效能追蹤
+
+
+Datadog、Sentry、Cloud Monitoring
+
+■ 環境建置
+
+
+Terraform
+
+
+■ CI/CD
+
+
+GitHub Actions
+
+
+■ 認證管理
+
+
+Auth0
+
+
+■ 開發工具
+
+
+GitHub、GitHub Copilot、Figma、Storybook
+
+■ 團隊溝通工具
+
+
+Slack、Discord、JIRA、Miro、Confluence",www.cake.me//companies/mynavi/jobs/ca-mlops
+18,"(全遠端) 資料工程師 / AI & Data Engineer - 推薦系統, AI Agent",Rooit Inc. (XO App),1,Full-time,Mid-Senior level,"Tainan City, Taiwan・Taiwan・Taichung City, Taiwan・Kaohsiung City, Taiwan",50K ~ 100K TWD / month,1 years of experience required,No management responsibility,"優化 XO匿名交友app 卡片內容推薦系統，每月超過千萬次滑動、千萬則資料等待你一起探勘優化產品
+使用 python、SQL 等工具建置符合產品需求的 Data Pipeline參與專案產品的設計與開發（推薦系統、客戶行為分析、銷售預測、影像辨識、語意分析 ...）",www.cake.me//companies/rooit-me/jobs/full-remote-data-engineer-data-engineer
+19,Data Engineer,"Polymer Systematic Taiwan Limited, Taiwan Branch",1,Full-time,Mid-Senior level,"Taipei City, Taiwan",50K ~ 90K TWD / month,2 years of experience required,No management responsibility,"Company Introduction
+Polymer Capital Management is a market-neutral, multi-manager investment platform focused on Asia. Our goal is to discover and nurture the region's top investment talent by combining established institutional support with extensive local financial market knowledge. We were founded in partnership with PAG, one of the world's largest Asia-focused alternative asset managers, and we have been operational since 2019.
+Job Brief
+We are looking for Data Engineers to join our hedge fund and manage our data operations. You will be responsible for engaging with various data vendors, designing and implementing data pipelines, and ensuring data quality and security. You will also support the data infrastructure and pipelines of the fund.
+Responsibilities:
+Engage with various data vendors to find the best data for the fund’s investment and trading activitiesEvaluate data quality, delivery timing, frequency, method, and symbology of different data sourcesFollow up contract and budget approval process with data vendors and internal stakeholdersKeep records of cost splits and propose ratio drafts for data vendor invoicesDesign data pipelines to process various internal and external data according to the nature of the data and the need of internal usersMake sure the data pipeline and storage solutions are performant and scalableImplement automated data quality checks and alert system to monitor and troubleshoot data issuesProvide adequate access control and usage audit solutions to ensure data security and complianceResearch and evaluate latest data related technologies and tools to keep our data platform updated and competitiveLead and mentor a team of data engineers and ensure they have the necessary skills, tools, and resources to perform their tasksCollaborate with the investment and trading teams to understand their data needs and provide them with relevant and timely data access and delivery
+Why join us?
+You'll work full-time in our centrally located office in the heart of Taipei, alongside a team of highly driven professionals eager to learn and develop their skills. We celebrate diversity and are dedicated to creating an inclusive environment for all employees. With 12 offices across the region, Polymer teams collaborate to tackle meaningful challenges at scale.
+Some of our Benefits 
+Annual paid leave Medical group insuranceMonthly gym subsidy
+Email resume to: [email protected] (Subject Line: HC Department RE: Job Title)
+www.polymercapital.com",www.cake.me//companies/polymertaiwan/jobs/senior-front-end-developer-61e06c
+20,Lead / Principal Data Engineer (Data Infra & Ops) (hybrid; Jakarta),Fazz,1,Full-time,Mid-Senior level,"Jakarta Special Capital Region, Republic of Indonesia",4 years of experience required,No management responsibility,,"#About the TeamFazz’s Data Engineering teams are responsible for creating and maintaining the infrastructure that runs the company’s data pipeline, and optimizing the flow and collection of data for the critical business analytics and AI/data-driven solutions. The success of the team relies on the high engineering standard and the adoption of cutting-edge technology that empowers the organization to be agile. Data engineering forms the foundation to ensure that precious data is being properly stored and curated so that value can be derived from them.# Roles and Responsibilities
+
+The Data Infra and Ops team, which is part of the data engineering team, is responsible for architecting the Group’s data infrastructure that underlie all our data pipelines and machine learning solutions. The teams’ mission is to achieve maximum efficiency and stability of the entire data infrastructure, and that data is only accessed by those who are authorised to do so.As a Lead Data Engineer (Data Infra & Ops), you will work with and lead other data engineers to develop our data infrastructure, and create processes to facilitate the smooth operation of our data pipelines. You will work with the team to ensure that accurate data is available in a timely manner for management to make informed decisions, operational teams to track their metrics, and data scientists to create and run machine learning models. The responsibilities for this role include:Create and maintain infra for ETL pipelines, data warehouse, business intelligence reporting and ML model deploymentsCreate active and passive monitoring for data infrastructure (alerts, usage dashboards, etc)Develop, maintain and optimise processes for ensuring smooth data engineering operationsResearch into data engineering best practices and make continual improvements to Fazz’s data infrastructure and processes",www.cake.me//companies/draft-fazz-id/jobs/d5a750
+21,"Fintech-交易所- (Sr.) Data Engineer – Cloud-first, High-impact -TL",Cake Recruitment Consulting,1,Full-time,Mid-Senior level,"Xinyi District, Taipei City, Taiwan",1.2M ~ 1.8M TWD / year,4 years of experience required,No management responsibility,"Join a fast-growing fintech company that’s shaping the future of digital asset trading. Backed by a global user base and a mission to build secure, scalable systems, we are now expanding our data infrastructure team and looking for experienced Data Engineers ready to make a real impact.
+Here, engineers are trusted with real ownership and are empowered to propose, build, and optimize data systems from the ground up. If you're passionate about designing robust pipelines and enjoy working with international teams, this is your next challenge.
+🔍 About the Role
+As a (Senior) Data Engineer, you will work closely with Data Scientists and Analysts across teams to build, optimize, and maintain data pipelines on a cloud-first architecture. This role involves collaborating with stakeholders across departments, identifying performance gaps, and ensuring our data systems remain scalable, reliable, and observable.
+💼 Responsibilities
+
+
+Build and maintain scalable data pipelines and infrastructure on AWS
+
+
+Collaborate with analysts and scientists to ensure timely, accurate data delivery
+
+
+Design and improve ETL/ELT workflows using tools like Apache Airflow
+
+
+Set up monitoring and observability for data integrity and system performance
+
+
+Propose and implement improvements to our current data platform
+
+
+🎁 What We Offer
+
+
+Competitive annual compensation package
+
+
+Flat team structure and international collaboration environment
+
+
+Flexibility to partially work remotely
+
+
+Healthcare coverage and wellness benefits
+
+
+A front-row seat to the fast-evolving world of fintech and blockchain
+
+
+Interested in building the future of data at scale?
+Apply now or reach out for a confidential chat.
+We’re excited to meet builders who care about performance, integrity, and impact.",www.cake.me//companies/cake-recruitment-consulting/jobs/fintech-exchange-sr-data-engineer-cloud-first-high-impact-tl
+22,"Fintech-交易所- (Sr.) Data Engineer – Cloud-first, High-impact -TL",Foreign Professional Talent Recruitment in Taiwan,1,Full-time,Mid-Senior level,"Xinyi District, Taipei City, Taiwan",1.2M ~ 1.8M TWD / year,4 years of experience required,No management responsibility,"Join a fast-growing fintech company that’s shaping the future of digital asset trading. Backed by a global user base and a mission to build secure, scalable systems, we are now expanding our data infrastructure team and looking for experienced Data Engineers ready to make a real impact.
+Here, engineers are trusted with real ownership and are empowered to propose, build, and optimize data systems from the ground up. If you're passionate about designing robust pipelines and enjoy working with international teams, this is your next challenge.
+🔍 About the Role
+As a (Senior) Data Engineer, you will work closely with Data Scientists and Analysts across teams to build, optimize, and maintain data pipelines on a cloud-first architecture. This role involves collaborating with stakeholders across departments, identifying performance gaps, and ensuring our data systems remain scalable, reliable, and observable.
+💼 Responsibilities
+Build and maintain scalable data pipelines and infrastructure on AWSCollaborate with analysts and scientists to ensure timely, accurate data deliveryDesign and improve ETL/ELT workflows using tools like Apache AirflowSet up monitoring and observability for data integrity and system performancePropose and implement improvements to our current data platform
+🎁 What We Offer
+Competitive annual compensation packageFlat team structure and international collaboration environmentFlexibility to partially work remotelyHealthcare coverage and wellness benefitsA front-row seat to the fast-evolving world of fintech and blockchain
+Interested in building the future of data at scale?Apply now or reach out for a confidential chat.We’re excited to meet builders who care about performance, integrity, and impact.",www.cake.me//companies/taiwan-international-jobs/jobs/fintech-exchange-sr-data-engineer-cloud-first-high-impact-tl-209
+23,Senior Data Engineer – International Web3 Leader | Fully Remote | English Required - OW,Foreign Professional Talent Recruitment in Taiwan,1,Full-time,Mid-Senior level,"Taipei City, Taiwan",60K ~ 80K USD / year,3 years of experience required,No management responsibility,"【公司描述】
+我們是一家全球領先的數字資產交易與支付科技公司，致力於打造安全、高效的金融基礎設施。
+目前，我們正在尋找資深數據工程師，負責獎勵與財務數據項目的開發與優化，與國際團隊合作，打造高效且可擴展的數據平台。
+【Company Overview】
+A global leader in digital asset exchange and payment technology, committed to building secure and efficient financial infrastructure.
+The company is now hiring a Senior Data Engineer to drive development and optimization of data systems for rewards and financial operations. This role involves close collaboration with international teams to build scalable and reliable data platforms.
+
+【職位亮點】
+✅ 年薪 USD $60,000–80,000，具競爭力的薪資與成長空間
+✅ 國際化團隊，與全球頂尖技術專家合作
+✅ 參與高併發、即時數據處理專案，發展大規模數據基礎設施
+【Role Highlights】
+✅ Competitive salary (USD $60K–80K) with strong career growth
+✅ Join a global team and work with top engineers from around the world
+✅ Build high-throughput, real-time data infrastructure at scale
+
+【職位職責】
+🔹 數據平台與管道開發：設計與維護穩定高效的數據架構
+🔹 數據倉儲建置與優化：支援離線與即時數據的儲存與檢索
+🔹 大數據處理與轉換：使用 Hadoop、Spark、Flink 等技術
+🔹 跨部門協作：與財務、獎勵、技術團隊合作，提供數據解決方案
+【Responsibilities】
+🔹 Design and maintain stable, high-performance data platforms and pipelines
+🔹 Develop and optimize offline and real-time data warehouses
+🔹 Process and transform large data sets using Hadoop, Spark, or Flink
+🔹 Collaborate cross-functionally with Finance, Rewards, and Engineering teams to deliver data-driven solutions
+
+【職位要求】
+✔ 3–8 年數據平台或數據工程經驗
+✔ 精通 Hadoop、Spark、Flink 等大數據工具
+✔ 熟悉 Python / Scala / Java 至少一種程式語言
+✔ 熟悉數據倉儲與 ETL（離線與即時）開發經驗
+✔ 有 Airflow 經驗者佳
+✔ 英文流利，能與國際團隊順利溝通
+【Requirements】
+✔ 3–8 years of experience in data platform or pipeline engineering
+✔ Proficient in big data tools: Hadoop, Spark, Flink
+✔ Strong programming skills in at least one of: Python, Scala, or Java
+✔ Solid understanding of data warehousing and ETL (offline  real-time)
+✔ Experience with Airflow is a plus
+✔ Fluent in English with strong communication skills for working across global teams----------------------------------------------------------------------
+若您對此職位感興趣，請立即聯繫，讓我為您介紹更多詳細資訊！
+▶︎ 聯繫人：招募顧問 Owen Wu▶︎ LINE： https://line.me/ti/p/ICjS8Jx0Dq▶︎ LinkedIn： https://www.linkedin.com/in/owen-wu-1023a41a4/",www.cake.me//companies/taiwan-international-jobs/jobs/senior-data-engineer-international-web3-leader-fully-remote-english-required-ow
+24,國際知名 Web3 服務商🪙全遠端(要求英文溝通) - 數據資料工程師(Senior) - OW,Cake Recruitment Consulting,1,Full-time,Mid-Senior level,"Taipei City, Taiwan",60K ~ 80K USD / year,3 years of experience required,No management responsibility,"【公司描述】
+我們是一家全球領先的數字資產交易與支付科技公司，致力於打造安全、高效的金融基礎設施。
+目前，我們正在尋找 (資深)數據工程師，負責獎勵與財務數據相關項目的開發與優化，
+與國際團隊合作，共同構建高效、可擴展的數據平台。
+【職位亮點】
+✅ 年薪 60-80K USD，具競爭力的薪資與成長空間
+✅ 國際化團隊，與來自世界各地的頂尖技術專家合作
+✅ 參與高併發、即時數據處理專案，發展大規模數據基礎設施
+【職位職責】
+🔹 數據平台與數據管道開發：設計並維護高效的數據基礎架構，確保數據流順暢與穩定
+🔹 數據倉儲建置與優化：開發 離線與即時數據倉儲，確保數據高效存儲與檢索
+🔹 大數據處理與分析：運用 Hadoop、Spark、Flink 進行數據計算與轉換
+🔹 跨部門協作：與財務、獎勵與技術團隊合作，提供數據解決方案
+【職位要求】
+✔ 3-8 年數據平台/數據管道工程經驗
+✔ 熟悉大數據技術：精通 Hadoop、Spark、Flink
+✔ 具備程式開發能力：精通 Python / Scala / Java 至少一種語言
+✔ 熟悉數據倉儲概念，具有 離線 / 即時數據倉儲 開發經驗
+✔ 具備 Airflow 經驗 者佳
+✔ 流利的英文溝通能力，能與國際團隊無障礙協作----------------------------------------------------------------------
+若您對此職位感興趣，請立即聯繫，讓我為您介紹更多詳細資訊！
+▶︎ 聯繫人：招募顧問 Owen Wu▶︎ LINE： https://line.me/ti/p/ICjS8Jx0Dq▶︎ LinkedIn： https://www.linkedin.com/in/owen-wu-1023a41a4/",www.cake.me//companies/cake-recruitment-consulting/jobs/729080
+25,資深財務數據工程師 Sr. Finance Data Engineer,烽泰科技有限公司,2,Full-time,Mid-Senior level,"Taipei City, Taiwan",1.1M ~ 1.3M TWD / year,5 years of experience required,No management responsibility,"【工作內容】
+作為集團數據策略的關鍵推手，您將有機會與集團IT團隊一同將財務數據從傳統架構轉型至現代化雲端平台 (AWS)。如果您渴望與頂尖數據專家、專案經理共同協作，並將資料工程、雲端、DataOps 技術應用於實際業務痛點，那麼這個職位正是您的最佳舞台！
+我們的Sr. Finance DE將會與集團IT團隊合作，逐步將財務資料從地端VM搬遷至AWS雲端環境，並協助其他財務部同仁將日常業務報表、分析報表進行自動化。我們重視快速溝通與實際的專案交付! 在這裡，除了具競爭力的薪資與各種福利外，您還能與團隊內不同的夥伴們相互學習，追求技術成長。我們相信，透過透過實際的專案開發與新技術的學習與使用，才是讓團隊不斷進步與成長的動力！
+
+【您需要做什麼?】 
+  • 協助財務數據雲端轉型： 與集團 IT 團隊緊密協作，規劃並執行財務核心資料從地端 VM 遷移至 AWS 雲端環境的策略與實施。
+  • 建構數據自動化流程： 設計、開發並維護高效、穩定的財務數據 ETL/ELT pipeline，實現日常業務報表與分析報表的全面自動化。
+ • 數據架構優化與創新： 持續學習並導入先進的資料領域知識與技術（如 DataOps、FinOps 概念），優化現有數據架構，提升數據處理效率與品質。
+  • 跨部門協作與溝通： 深入理解財務部門需求，並能將複雜的技術概念清晰地傳達給非技術背景的同仁，共同推動專案進程。
+  • 數據專案開發與管理： 負責數據相關專案的設計、開發與維護，包含 Datalake 管理、資料收集、清洗、儲存等關鍵功能，確保數據的完整性、一致性與可用性。
+  • 文件撰寫與知識傳承： 撰寫清晰的開發文件 (Design Document, ERD, Diagram, User Manual)，確保專案知識的有效傳承。
+
+【我們期待您具備】 
+• 精通 SQL，具備大規模集中/分散式資料庫的 CRUD 操作、效能優化及資料清洗 (ETL/ELT) 實戰經驗。
+• 豐富的 Python 資料工程開發經驗，熟悉並應用 pandas, numpy, pyspark 等核心套件。
+• 具備 AWS 雲端平台 (例如 S3, EC2, Lambda, Glue, Redshift, Athena 等服務) 與 Databricks 的實務開發經驗。
+• 具備 Data Pipeline (資料流) 的設計、搭建與優化能力，熟悉 Dagster 或 Airflow 等排程工具。
+• 5 年以上資深資料工程師或相關經驗，並具備獨立主導專案的能力。
+• 卓越的需求訪談與業務邏輯理解能力，能將複雜的技術概念清晰地傳達給非技術背景利害關係人。
+• 具備良好的溝通協作能力，主動積極解決問題，並樂於分享知識。
+
+【符合以下條件，將是您的優勢】 
+• 具備財務金融相關專業知識或在金融科技產業的資料工程經驗。
+• 對 DataOps 或 FinOps 理念有深入理解與實踐經驗。
+• 熟悉 Linux 操作與 Shell Script。
+• 具備 資料視覺化工具 (Tableau、PowerBI) 實務經驗。",www.cake.me//companies/unicornfintech/jobs/sr-finance-data-engineer
+26,知名金控數位轉型 - 數據部 -數據管理科- (資深)資料科學工程師Data Engineer - TL,Cake Recruitment Consulting,1,Full-time,Mid-Senior level,"Xinyi District, Taipei City, Taiwan",1M ~ 1.5M TWD / year,5 years of experience required,No management responsibility,"公司介紹：
+我們的客戶是一家領先的金融科技公司，致力於通過數位、數據和技術推動整體轉型。公司正在積極打造數據驅動文化，以成為提供卓越金融服務的科技公司為目標。公司環境開放創新，鼓勵員工發揮創造力，實現職業理想。
+JD:
+
+
+ 
+ 
+  1.銀行資料倉儲ETL批次維運管理、海內外倉儲數據整合與加值運用。
+ 
+ 
+  2.數據應用需求ETL開發與維運。
+ 
+ 
+  3.數據應用之相關專案分析設計。
+ 
+ 
+  4.數據介接、資料治理、數據市集應用之程式開發維運。",www.cake.me//companies/cake-recruitment-consulting/jobs/f68770
+27,新興 VPN 品牌📱資料密集型產業 x AWS/GCP 雲端基礎架構 - 數據工程師(Data Engineer) - OW,Cake Recruitment Consulting,1,Full-time,Mid-Senior level,"Taipei City, Taiwan",1M ~ 1.8M TWD / year,3 years of experience required,No management responsibility,"【公司描述】
+本公司為亞洲新興科技品牌，專注於打造高效穩定的資料平台與雲端基礎架構，支援大規模數據應用與商業決策。在數位轉型與數據驅動已成為營運主軸的當下，我們成立專責資料工程團隊，投入企業級資料基礎建設與資料治理推進。
+團隊技術氛圍活躍，長期實作於 GCP、AWS 等雲端平台，並導入如 Elasticsearch、Kafka、Spark 等大數據技術。誠摯邀請對資料基礎設施與雲端工程有熱情的工程師加入，共同提升企業在資料應用上的核心競爭力。
+【職缺亮點】
+✅ 管理 PB 級別資料流與高效能雲端平台，實戰經驗豐富
+✅ 深度參與資料平台建構、數據治理、流程自動化等關鍵專案
+✅ 技術堆疊完整，涵蓋 GCP / AWS / Elasticsearch / Spark 等主流框架
+✅ 資料密集型產業，直接支援業務決策與產品數據需求
+【職位職責】
+🔹 設計與建置穩定的大數據處理流程與資料管線，確保資料的準確性與即時性
+🔹 負責從 GCP、AWS、ES 等平台擷取原始資料，並透過 Glue、Workflow 等進行清洗與轉換
+🔹 維護與優化 Elasticsearch 等關鍵資料系統，確保查詢效率與資料完整性
+🔹 根據業務需求撰寫 ETL 流程與資料清洗邏輯，並持續監控資料品質
+🔹 撰寫與維護工程文件、資料字典、流程註解，強化團隊知識共享
+🔹 與分析師、PM 與業務部門密切合作，提供技術支援與資料解釋
+🔹 研究並導入最新數據技術與工具，強化資料處理效率與系統彈性
+【職位要求】
+✔ 擁有 3 年以上資料工程、數據基礎建設或雲端開發經驗
+✔ 熟悉 Python 與 SQL，具備良好程式設計與資料邏輯能力
+✔ 熟悉雲端資料處理平台，如 AWS Athena、Glue、GCP BigQuery 等
+✔ 具備 Elasticsearch 操作與入庫流程實務經驗者尤佳
+✔ 熟悉資料治理、資料品質控管、資料字典維運者優先考慮
+✔ 熟悉數據架構與資料流程設計，具獨立規劃與維運能力
+✔ 具備良好跨部門溝通能力與文件撰寫能力
+✔ 擁有跨團隊數據專案參與經驗者，將有助於快速上手本職務----------------------------------------------------------------------
+若您對此職位感興趣，請立即聯繫，讓我為您介紹更多詳細資訊！
+▶︎ 聯繫人：招募顧問 Owen Wu▶︎ LINE： https://line.me/ti/p/ICjS8Jx0Dq▶︎ LinkedIn： https://www.linkedin.com/in/owen-wu-1023a41a4/",www.cake.me//companies/cake-recruitment-consulting/jobs/ae64ce
+28,知名金控數位轉型 - 海外市場/跨國團隊- 資深資料科學工程師 /數據工程師 Data Engineer - TL,Cake Recruitment Consulting,1,Full-time,Mid-Senior level,"Xinyi District, Taipei City, Taiwan",1M ~ 1.6M TWD / year,5 years of experience required,No management responsibility,"我們的客戶是一家領先的金融科技公司，致力於通過數位、數據和技術推動整體轉型。公司正在積極打造數據驅動文化，以成為提供卓越金融服務的科技公司為目標。公司環境開放創新，鼓勵員工發揮創造力，實現職業理想。JD:協助主導大數據生態圈資料市集與應用建置，管理資料流上下游協同作業，制定資料治理政策，包含但不限於以下：
+1.分析型資料市集、API數據中台、管理平台設計、開發與維運。
+2.建立工程開發流程與模式、系統文件規劃、撰寫。
+3.結構化及非結構化資料處理與整合。
+4.用資料導向概念提升各類業務，並導入系統以加強各項資料應用。
+5.建立資料治理規則，確保資料品質。",www.cake.me//companies/cake-recruitment-consulting/jobs/92448b
+29,"【數位驅動】AI技術/應用規劃分析師(數數發中心, DDT)",Cathay United Bank 國泰世華商業銀行,5,Full-time,Mid-Senior level,"Taipei City, Taiwan",Negotiable,No requirement for relevant working experience,No management responsibility,工作內容:拓展數據科學應用，掌握創新AI技術趨勢，並進行AI應用規劃、模型落地與深化：1.掌握市場AI技術與應用發展趨勢，規劃AI技術或應用發展藍圖2.推動AI技術產品發展：針對共通性業務場景規劃技術解決方案，加速解決業務痛點。3.掌握並能應對內外部AI監管趨勢，推動可信任AI實踐4.掌握部門AI服務之發展狀況、營運狀況、監控合規狀態等，並推動全行AI技術落地應用5.與多功能團隊（例如商業分析師、資料科學家、AI/ML工程師、資料工程師、AI軟體工程師…等）合作，確保技術可行性。,www.cake.me//companies/cathay-united-bank/jobs/d1bb9d
+30,"【數位驅動】AI數據系統分析師(數數發中心, DDT)",Cathay United Bank 國泰世華商業銀行,5,Full-time,Entry level,"Xinyi District, Taipei City, Taiwan",Negotiable,No requirement for relevant working experience,No management responsibility,工作內容:負責AI與大數據服務應用系統之需求規劃與功能分析。1.掌握市場AI與大數據技術發展趨勢，規劃AI與大數據服務應用系統功能。2.與業務及開發團隊共同分析需求，導入AI與大數據應用解決方案，滿足場景需求。3.設計及撰寫系統規格文件，包含AI與大數據模型運作及跨系統資料整合。4.保持對Data、AI/ML新技術的敏感度，並應用於解決問題及驅動AI與大數據服務創新。5.與多功能團隊（例如資料科學家、AI/ML工程師、資料工程師、AI軟體工程師…等）合作，確保技術可行性。,www.cake.me//companies/cathay-united-bank/jobs/baa91f
+31,I107 資料分析/數據工程師(可遠端工作),台灣大哥大,1,Full-time,Entry level,"Daan District, Taipei City, Taiwan",36K ~ 60K TWD / month,No requirement for relevant working experience,No management responsibility,"聽過黑盒子、演算法、機器學習、Alphago嗎?這些讓我們聯想到AI的代名詞是否讓你躍躍欲試？""AI""所綻放的魔力吸引了眾多人趨之若鶩，資料科學領域無限寛廣，是否想找個能一展身手的機會？是否想要學習各種程式語言SQL、Python、R、SPARK、Java、HTML、C#...等技術，並且將各項技術結合在一起實現為產品的抱負？這裡有一個符合所有需求的機會，就等您來展現！ 
+
+【為什麼要加入台灣大哥大 IT 攻城精英團隊】
+1. 我們有大公司的穩定福利，也有新創公司般的工作挑戰
+2. 我們致力打造一起學習、正向鼓勵回饋的工作氛圍與環境
+3. 我們有體貼的常規居家上班制度
+4. 我們已不是傳統的電信公司，飛輪已開始高速運轉，正加速往區域級科技電信集團目標大步邁進
+5. 我們能讓你從「攻城師」升級為「攻城精英」，這裡絕對是個讓你可以升級武器、切磋技能、激發潛能的難得機會
+6. 我們還有一位跨領域身經百戰、兼具感性與知性、熱愛分享，每週都請喝咖啡的超強 CIO 隊長！
+
+【工作內容】
+1. 參與資料倉儲相關之系統的需求訪談/架構規劃/開發/維運。
+2. 參與並執行專案，主動積極從各種角度思考，提出各種可行的方案
+
+A. 資料工程：
+ ■負責資料擷取及處理之ETL開發及維運
+ ■負責通路報表系統優化
+ ■通路業績日月報相關需求開發與維運
+ ■雲端通路即時戰報相關需求開發與維運
+
+B. 資料分析：
+ ■負責數據資安產品開發
+ ■負責產品優化與維運
+ ■使用機器學習/統計分析/深度學習等資料分析新技術
+ ■發展雲端數據分析技術與商業智慧應用系統開發
+
+C. 大數據：
+ ■大數據分析經驗
+ ■網路爬蟲
+ ■盜偽網站偵測..等ML/DL建模
+ ■資安產品開發設計根據內外部業務需求，提供需求相關的技術規劃做法、與分析洞察
+
+*HR於收到履歷後將協助媒合合適職缺
+
+【我們喜歡什麼樣的人】
+1. 具備團隊合作精神
+2. 良好的溝通及表達能力
+3. 積極進取的工作態度
+4. 對新興技術展現學習能力
+
+歡迎所有求職者，與應屆畢業生，給我們一個認識你的機會，也給自己一個不留遺憾的嘗試，讓我們開創未來。
+
+【必備技能】
+
+A. 資料工程/資料分析：
+ ■熟悉資料分析程式開發與SQL程式後端開發技能
+ ■NoSQL 開發經驗
+ ■Oracle 或 SQL Server..等資料庫開發經驗
+ ■C# 或Java或R或Python開發經驗
+ ■熟悉SAP BOE或Power BI或Tableau..等視覺化分析工具尤佳
+
+B. 大數據： 
+ ■精通Python或Java程式開發
+ ■具AI 或 ML 或 DL實務經驗
+ ■熟悉資料分析程式開發與SQL程式後端開發技能
+ 
+
+【薪資待遇】：月薪36,000元-60,000元，依績效另有豐厚年終獎金與員工紅利。",www.cake.me//companies/taiwan-mobile/jobs/i107-data-analyst-data-engineer-can-work-remotely
+32,日商金融企業💰資料庫處理 x ETL 開發 - 財務軟體系統工程師 - OW,Cake Recruitment Consulting,1,Full-time,Mid-Senior level,"Taipei City, Taiwan",800K ~ 1.3M TWD / year,5 years of experience required,No management responsibility,"【公司描述】
+我們是一家專注於企業數位化轉型的知名企業，致力於運用科技提升財務與營運效率。
+目前，我們正在尋找 EBS 財務系統工程師，負責企業財務系統的維運、開發與流程優化，確保財務管理數據的準確性與高效運作。
+【職位亮點】
+✅ 深入參與企業核心財務系統，發揮你的技術專長
+✅ 穩定發展機會，與專業團隊合作，參與大型系統優化專案
+✅ 具挑戰性的技術環境，涵蓋 EBS、ETL、PL/SQL 等技術領域
+【職位職責】
+🔹 Oracle EBS 財務系統維運：負責企業 EBS 財會系統的維護與優化，確保系統穩定運行
+🔹 系統開發與用戶需求解決：以 Form 與 Report 為主，開發新功能並提供技術支援
+🔹 跨部門需求分析與流程優化：與財務、營運等部門溝通需求，提升系統效能與使用體驗
+🔹 數據架構與專案參與：協助新專案的數據規劃、分析與實施，確保數據流暢與準確
+【職位要求】
+✔ PL/SQL 開發經驗：至少 4-5 年 PL/SQL 開發 經驗，熟練處理數據查詢與優化
+✔ Oracle EBS 系統經驗：熟悉 EBS 財會系統的 資料庫結構與功能，能夠獨立進行開發與維護
+✔ 數據整合與規劃能力：具備 ETL、資料轉換流程、工作排程設計與效能調校 經驗者佳
+✔ 溝通與協作能力：擅長跨部門溝通，能夠分析業務需求並提供適切的技術解決方案----------------------------------------------------------------------
+若您對此職位感興趣，請立即聯繫，讓我為您介紹更多詳細資訊！
+▶︎ 聯繫人：招募顧問 Owen Wu▶︎ LINE： https://line.me/ti/p/ICjS8Jx0Dq▶︎ LinkedIn： https://www.linkedin.com/in/owen-wu-1023a41a4/",www.cake.me//companies/cake-recruitment-consulting/jobs/ef7d98
+33,資深 AI 工程師（Senior AI Engineer ）_遠端工作,awoo阿物科技股份有限公司,1,Full-time,Mid-Senior level,Taiwan,Negotiable,3 years of experience required,No management responsibility,"台灣 MarTech 領導品牌 awoo 結合 AI 人工智慧，是台灣成長最快速的 SaaS（Software as a Service）MarTech Solution。2017年獲得種子輪融資，2020年完成 A 輪募資，獲得Netscape共同創辦人沙正治 、Fintech獨角獸Ellie Mae共同創辦人Limin Hu等多位矽谷軟體企業家投資，是台灣極少數獲得矽谷資源挹注的新創團隊。未來我們將積極前進全球，重新描繪海島小國以軟體航向世界的新路線。
+
+
+Major Duties and Responsibilities：
+產品落地與協作：負責開發和優化 AI 產品與服務，從 PoC 到產品化，跨部門合作提出創新解決方案，推動 AI 產品落地。效能優化：維運現有系統，分析並解決服務和算法的效能瓶頸。ML/Data Pipeline：設計與建立可擴展的 Pipeline 自動化流程，提升開發和部署效率。
+Qualifications：
+具備 5 年以上軟體開發經驗，3 年以上 AI 產品研發經驗。熟悉自然語言處理（NLP）、生成式 AI 相關技術（LLM, RAG, Prompt/Context Engineering），使用開源套件或自行開發算法（Transformers, LangChain, LangGraph, DSPy, TensorFlow, PyTorch, Scikit-Learn）。具備模型的開發、訓練、部署、優化的完整實務經驗。具備使用 Container 和 Kubernetes 的開發與部署經驗。熟悉向量資料庫與 Embedding 模型，確保系統效能與可擴充性。熟悉分散式計算與查詢引擎（如 Spark、Trino、Clickhouse），具有處理大量資料處理開發與維運經驗。熟練 Git, Linux, Python, Docker, SQL，能以 FastAPI 開發高效服務。
+Nice-to-Have：
+雲平台經驗，如 GCP, AWS, Azure。具有 LLM/SLM Finetuning 實務經驗。MLOps/LLMOps 專案經驗，以量化指標來衡量模型和產品的成效。規劃與實作 CI/CD 自動化流程。具備推薦、搜尋或貼標系統的產品化經驗
+擅⻑工具（JD 標籤）
+程式與開發：Python, Git, Linux, SQL, FastAPIGenAI：RAG, Prompt Engineering, Context Engineering, Agent資料與運算：Airflow, Spark, Trino, Vector Database, Qdrant平台與部署：Docker, Kubernetes, Cloud, GCP, AWS, Azure",www.cake.me//companies/awoo/jobs/senior-ai-engineer-de8
+34,台灣金融巨頭🏦高度實作 & 創新，資料產品研發角色 - 數據工程師 - OW,Cake Recruitment Consulting,1,Full-time,Mid-Senior level,"Taipei City, Taiwan",1M ~ 1.5M TWD / year,2 years of experience required,No management responsibility,"【公司描述】
+本公司為亞洲區領先的數位化金融機構之一，持續深耕數據科技創新，致力打造以數據驅動的智慧金融服務。現正積極尋找擁有資料工程熱情與技術力的專業人才，加入內部 AI/ML 團隊，共同打造具有商業價值的數據平台與應用。
+【職缺亮點】
+✅ 銜接業務與 IT 團隊，實作端到端的數據產品
+✅ 深度參與 MLOps 系統建設，推動 AI 模型部署與自動化迭代
+✅ 企業內部資料產品研發角色，具有高度實作與創新空間
+✅ 穩定大型企業體制＋靈活敏捷開發團隊文化
+【職位職責】
+🔹 與 IT 團隊協作設計與優化數據採集流程，建立可供模型運作的特徵資料庫
+🔹 針對業務需求進行資料前處理與特徵工程，提升模型運算效能與準確度
+🔹 負責建置並維護資料管線 (Data Pipeline)，實現數據清洗、轉換、自動化流程
+🔹 推動 MLOps 架構與模型自動佈署 (Auto-Retrain)，提升資料產品迭代速度
+🔹 與業務、數據科學團隊合作研發資料產品並落地服務化
+🔹 協助簡報與說明模型架構、效能，支持內部單位的溝通與決策
+【職位要求】
+✔ 至少 2 年以上資料處理與工程經驗，具數據產品開發實務佳
+✔ 熟悉 Python、SQL 與 PySpark，熟悉資料結構與演算法原理
+✔ 具備資料管線規劃、建置與維運能力
+✔ 對數據分析與應用保持熱情，具備獨立解決問題與跨部門溝通能力
+✔ 具備邏輯清晰的簡報能力與技術表達能力
+✔ 若為資深工程師，需具備完整系統建置經驗與專案推動能力----------------------------------------------------------------------
+若您對此職位感興趣，請立即聯繫，讓我為您介紹更多詳細資訊！
+▶︎ 聯繫人：招募顧問 Owen Wu▶︎ LINE： https://line.me/ti/p/ICjS8Jx0Dq▶︎ LinkedIn： https://www.linkedin.com/in/owen-wu-1023a41a4/",www.cake.me//companies/cake-recruitment-consulting/jobs/4d304b
+35,機器學習工程師 ML machine learning Engineer,資旅軟體開發有限公司,1,Full-time,Entry level,Taiwan,50K ~ 65K TWD / month,3 years of experience required,No management responsibility,我們正在尋找具有豐富經驗的 ML工程師 / LLM 工程師，專注於企業應用領域的開發與實施。該職位將負責設計和優化大型語言模型（LLM）相關應用，利用最先進的人工智慧技術來解決實際業務需求，並確保符合負責任 AI 的標準。工作內容涵蓋專案：- 數據平台架構開發- 個人化商品推薦- 價格追蹤推薦- 購物行為分析- 會員興趣分析- 商品關聯性分析工作職責：1. 數據平台開發與維護   - 使用 Databricks 建立完整數據處理平台   - 設計與維護 Delta Lake 數據湖架構   - 建立高效能 pipeline jobs   - 整合多源數據(訂單、商品、價格、會員資料等)2. 推薦系統開發與優化   - 開發個人化商品推薦引擎   - 設計購物行為分析模型   - 建立商品關聯性分析系統   - 開發價格追蹤與優惠推薦機制3. 數據分析與應用   - 使用 PySpark 進行大規模數據處理   - MongoDB 應用開發與優化   - 建立自動化數據管道(Data Pipeline)   - 開發數據監控與警報機制4. API 開發與系統整合   - RESTful API 設計與開發   - 微服務架構整合   - 系統效能優化,www.cake.me//companies/webglsoft/jobs/515b55
+36,零售龍頭數位轉型-Data Engineer(顧客數據平台CDP)-TL,Cake Recruitment Consulting,1,Full-time,Mid-Senior level,"Neihu District, Taipei City, Taiwan・Xinyi District, Taipei City, Taiwan",1.2M ~ 2M TWD / year,5 years of experience required,Managing 5-10 staff,"🏢 公司介紹
+我們的客戶是台灣最具規模與影響力的零售集團龍頭，積極拓展多元化的電商平台生態系。作為台灣零售業的標竿企業，該公司持續引領產業創新，近年積極推動全面數位轉型，整合線上線下（O2O）資源，打造台灣最大規模的全通路零售平台。
+
+為什麼加入我們？
+
+產業領導地位：台灣零售業龍頭，擁有穩健發展基礎與龐大數據資產
+數位轉型先鋒：目前正全力投入集團電商整合與數位化升級，是參與零售科技革命的絕佳時機
+絕佳職涯發展：在數位經濟時代，您的專業能力將直接對數百萬消費者與企業營收產生顯著影響
+【工作內容】
+你將成為企業數據基礎架構的核心工程師，協助打造能支撐數百萬筆用戶行為與交易資料的即時數據平台：
+
+
+CDP 數據架構設計：規劃資料模型、整合多元來源，提升行銷科技自動化能力
+
+
+即時與批次資料處理：使用 Kafka、Flink 建構流處理系統；以 Airflow 調度高效批次流程
+
+
+數據湖與查詢效能：應用 Delta Lake、Snowflake 提升查詢速度與資料整合效率
+
+
+資料品質與監控：導入 data observability，確保資料一致性與可追蹤性
+
+
+跨部門合作與技術領導：與行銷、產品、資料科學團隊密切合作，支援 MLOps 與模型部署
+
+
+資料合規與治理：設計符合 GDPR、CCPA 的資料管理機制，落實企業資料安全策略
+
+
+【使用技術】
+
+
+程式語言：Python / Java / Scala
+
+
+即時處理：Apache Kafka、Apache Flink
+
+
+批次處理與排程：Apache Airflow
+
+
+數據平台：Snowflake、Delta Lake、BigQuery
+
+
+雲端平台：AWS / GCP / Azure
+
+
+其他：Databricks、Kubernetes、Docker、CI/CD、MLOps",www.cake.me//companies/cake-recruitment-consulting/jobs/36d6a7
